@@ -9,3 +9,18 @@ H1, H2 {
   font-family: monospace;
   
 }
+.img1 {
+  width: 216px;
+  height: auto;
+  border-radius: 10px;
+  float: right;
+}
+
+.img2 {
+  width: 216px;
+  height: auto;
+  border-radius: 15px;
+  float: right;
+  clear: right;
+  margin-top: 55px;
+}

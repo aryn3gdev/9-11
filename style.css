@@ -4,7 +4,7 @@ body {
 p {
   color: black;
 }
-H1, H2 {
+H1, H2, H5 {
   font-weight: bold;
   font-family: monospace;
   
@@ -23,8 +23,4 @@ H1, H2 {
   float: right;
   clear: right;
   margin-top: 55px;
-}
-H5 {
-  font-family: monospace;
-  font-weight: bold;
 }

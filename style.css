@@ -24,7 +24,7 @@ H1, H2 {
   clear: right;
   margin-top: 55px;
 }
-.copyrightinfo {
+.copyrightinfo, H6 {
   font-family: monospace;
   font-weight: bold;
 }

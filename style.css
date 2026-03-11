@@ -24,3 +24,7 @@ H1, H2 {
   clear: right;
   margin-top: 55px;
 }
+.copyrightinfo {
+  font-family: monospace;
+  font-weight: bold;
+}
